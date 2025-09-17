@@ -1,4 +1,0 @@
-enum NotifyType {
-  productAdded,
-  offerAdded,
-}
